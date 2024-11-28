@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Please ignore the _savedOrders page in the lib it was accidentally created and I had some challenge trying to delete it on Git. I am still trying to figure it out.
+Please ignore the _savedOrderPlan dart in the lib it was accidentally created and I had some challenge trying to delete it on Git. I am still trying to figure it out.
 
 Thank you.
